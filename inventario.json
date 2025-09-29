@@ -1,0 +1,8 @@
+{
+    "P001": {
+        "id_producto": "P001",
+        "nombre": "Laptop",
+        "cantidad": 5,
+        "precio": 550.0
+    }
+}
