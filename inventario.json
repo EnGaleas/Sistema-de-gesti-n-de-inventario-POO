@@ -4,5 +4,11 @@
         "nombre": "Laptop",
         "cantidad": 5,
         "precio": 550.0
+    },
+    "P003": {
+        "id_producto": "P003",
+        "nombre": "Estuches",
+        "cantidad": 20,
+        "precio": 5.0
     }
 }
